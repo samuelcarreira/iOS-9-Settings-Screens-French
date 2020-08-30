@@ -3,10 +3,13 @@ A simple webpage with a compilation of the iOS 9 settings screenshots (French La
 
 ### https://samuelcarreira.github.io/iOS-9-Settings-Screens-French
 
-## Note
+
+## Notes
 - Shared only for backup purposes.
 
-
+## Samples
+![sample1](/samples/sample1.png)
+![sample2](/samples/sample2.png)
 
 
 ## Copyright
